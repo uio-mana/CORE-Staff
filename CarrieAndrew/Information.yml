@@ -5,3 +5,7 @@ role:
 affil:
   name: University of Oslo Natural History Museum
   link: https://www.nhm.uio.no
+external:
+  - https://www.mn.uio.no/ibv/english/people/aca/carriea/index.html
+orcid:
+  - 0000-0002-0524-8334
